@@ -11,7 +11,7 @@ import os
 import random
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '89033838145'
+app.config['SECRET_KEY'] = '00'
 
 
 class Attr:
